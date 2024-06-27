@@ -1,11 +1,7 @@
 # Semantic HTML Tags
 1. `<header>`
-<br>
 1. `<nav>`
-<br>
 1. `<section>`
-<br>
-
 1. `article`
 1. `<aside>`
 1. `<figure>`
