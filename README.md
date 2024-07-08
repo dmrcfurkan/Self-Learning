@@ -26,8 +26,4 @@
         - [Slice](JAVASCRIPT/Arrays/Slice)
         - [Some](JAVASCRIPT/Arrays/Some)
         - [Sort](JAVASCRIPT/Arrays/Sort)
-<<<<<<< Updated upstream
         - [Splice](JAVASCRIPT/Arrays/Splice)
-=======
-        - [Splice](JAVASCRIPT/Arrays/Splice)
->>>>>>> Stashed changes
