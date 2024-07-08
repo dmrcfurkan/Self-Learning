@@ -16,3 +16,18 @@
     * [OOP](JAVASCRIPT/OOP)
     * [Promise](JAVASCRIPT/Promise)
     * [Selectors](JAVASCRIPT/Selectors)
+    * [Arrays](JAVASCRIPT/Arrays)
+        - [Concat](JAVASCRIPT/Arrays/Concat)
+        - [Fill](JAVASCRIPT/Arrays/Fill)
+        - [Filter](JAVASCRIPT/Arrays/Filter)
+        - [Foreach](JAVASCRIPT/Arrays/Foreach)
+        - [Map](JAVASCRIPT/Arrays/Map)
+        - [Reduce](JAVASCRIPT/Arrays/Reduce)
+        - [Slice](JAVASCRIPT/Arrays/Slice)
+        - [Some](JAVASCRIPT/Arrays/Some)
+        - [Sort](JAVASCRIPT/Arrays/Sort)
+<<<<<<< Updated upstream
+        - [Splice](JAVASCRIPT/Arrays/Splice)
+=======
+        - [Splice](JAVASCRIPT/Arrays/Splice)
+>>>>>>> Stashed changes
